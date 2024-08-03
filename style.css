@@ -176,3 +176,6 @@ footer .container {
     background-color: rgb(44, 44, 44);
 }
 
+.image-modal img {
+    pointer-events: none;
+}
